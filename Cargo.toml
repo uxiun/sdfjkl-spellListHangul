@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 slab_tree = "0.3.2"
+trie-rs = "0.1.1"
